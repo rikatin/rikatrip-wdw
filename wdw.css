@@ -1,0 +1,277 @@
+body {
+	line-height: 1;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	text-align: center;
+}
+
+.header{
+	float: left;
+	font-size: 40px;
+	margin-left:100px;
+	font-family: Hello Santtiny;
+}
+
+.header-list{
+	float: right;
+	margin-right: 100px;
+	margin-top: 10px;
+}
+
+
+.sns{
+	height: 50px;
+	width: 50px
+	margin:20px;
+	padding-left: 30px;
+
+}	
+
+.main-pt{
+	width: 100%;
+}
+
+.main1{
+	color: black;
+	margin-top: 50px;
+	text-align: center;
+}
+
+.main1-logo{
+	padding-top: 40px;
+	text-align: center;
+	font-size: 48px;
+	font-family: "Hello Santtiny";
+
+}
+
+.main1-list{
+	font-size: 18px;
+	font-family: メイリオ;
+
+}
+
+.main1-pt{
+	width:17%;
+	 position:relative;
+     left:220px;
+     bottom:60px;
+}
+
+.main2-pt{
+	width: 100%;
+	margin-top:100px; 
+}
+
+.content1-logo{
+	font-size: 48px;
+	font-family: "Hello Santtiny";
+}
+
+.content1-tp{
+	font-size: 18px;
+	font-family: "メイリオ";
+	padding-bottom: 20px;
+}
+
+.content1-1{
+	font-size: 18px;
+	font-family: "メイリオ";
+	padding-right: 250px;
+	float: right;
+}
+
+.content1-list2{
+	height: 240px;
+	width: 300px;
+	padding: 0px 30px;
+}
+
+.main3-pt{
+	width: 100%;
+	margin-top:100px; 
+}
+
+.content2-logo{
+	font-size: 48px;
+	font-family: "Hello Santtiny";
+}
+
+.content2-tp{
+	font-size: 18px;
+	font-family: "メイリオ";
+	padding-bottom: 20px;
+}
+
+.content2-1{
+	font-size: 18px;
+	font-family: "メイリオ";
+	padding-right: 250px;
+	float: right;
+}
+
+.content2-list2{
+	height: 240px;
+	width: 300px;
+	padding: 0px 30px;
+}
+
+.main4-pt{
+	width: 100%;
+	margin-top:100px; 
+}
+
+.content3-logo{
+	font-size: 48px;
+	font-family: "Hello Santtiny";
+}
+
+.content3-tp{
+	font-size: 18px;
+	font-family: "メイリオ";
+	padding-bottom: 20px;
+}
+
+.content3-1{
+	font-size: 18px;
+	font-family: "メイリオ";
+	padding-right: 250px;
+	float: right;
+}
+
+.content3-list2{
+	height: 240px;
+	width: 300px;
+	padding: 0px 30px;
+}
+.main5-pt{
+	width: 100%;
+	margin-top:100px; 
+}
+
+.content4-logo{
+	font-size: 48px;
+	font-family: "Hello Santtiny";
+}
+
+.content4-tp{
+	font-size: 18px;
+	font-family: "メイリオ";
+	padding-bottom: 20px;
+}
+
+.content4-1{
+	font-size: 18px;
+	font-family: "メイリオ";
+	padding-right: 250px;
+	float: right;
+}
+
+.content4-list2{
+	height: 240px;
+	width: 300px;
+	padding: 0px 30px;
+}
+
+.main6-pt{
+	width: 100%;
+	margin-top:100px; 
+}
+
+.content5-logo{
+	font-size: 48px;
+	font-family: "Hello Santtiny";
+}
+
+.content5-tp{
+	font-size: 18px;
+	font-family: "メイリオ";
+	padding-bottom: 20px;
+}
+
+.content5-1{
+	font-size: 18px;
+	font-family: "メイリオ";
+	padding-right: 250px;
+	float: right;
+}
+
+.content5-list2{
+	height: 360px;
+	width: 450px;
+	padding: 0px 70px;
+}
+
+.footer-logo{
+	padding-top: 40px;
+	text-align:center;
+	font-size: 48px;
+	font-family: "Hello Santtiny";
+
+}
+
+.footer-list1{
+	font-size: 18px;
+	font-family: メイリオ;
+	text-align:left;
+	position:relative;right:100px;
+}
+
+.footer-list2{
+	font-size: 13px;
+	font-family: メイリオ;
+	position:relative;right:230px;
+}
+
+.footer-list3{
+	position:relative;right:200px;
+
+}
+
+.footer-pt1{
+	width:300px;
+	width: 300px;
+    position:relative;
+    left:260px;
+}
+
+.footer-pt2{
+	width:230px;
+	width: 230px;
+	position:relative;
+	top:170px;
+    left:230px;
+}
+
+.footer-pt3{
+	width:395px;
+	height: : 187px;
+	position:relative;
+	top:220px;
+    left:350px;
+}
+
+.footer-1{
+	font-size: 30px;
+	font-family: "メイリオ";
+	padding-right: 320px;
+	float: right;
+}
+
+.footer2{
+	margin-top: 250px;
+	background-color: #555555;
+	height: 50px;
+	width: 100%;
+}
+
+h6{
+	padding-top: 20px;
+	color: #fff;
+	font-size: 12px;
+	font-family: メイリオ;
+}
